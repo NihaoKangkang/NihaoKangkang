@@ -2,7 +2,7 @@
 - Studied infomation security at [Lanzhou University](https://www.lzu.edu.cn).
 - I'm currently learning pentest skills online.
 - Here is my TryHackMe badge:)
-- ![tryhackme stats](https://raw.githubusercontent.com/NihaoKangkang/NihaoKangkang/master/assets/thm_propic.png)
+- [<img src="https://tryhackme-badges.s3.amazonaws.com/KyiWong.png" alt="TryHackMe">](KyiWong)  
 
 <!--
 **NihaoKangkang/NihaoKangkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
