@@ -8,6 +8,7 @@
 
 ### Proundly announced:
 - [Chinese-Common-Password-List](https://github.com/NihaoKangkang/Chinese-Common-Password-List)
+- [Format Your TV Series Name](https://github.com/NihaoKangkang/series_format)
 - Guess what's next?
 
 
