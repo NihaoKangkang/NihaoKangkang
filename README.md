@@ -3,7 +3,7 @@
 - I love learning something interesting and do some scripts using GPT.
 - I'm currently learning pentest skills online.
 - Here is my TryHackMe badge:)
-- [<img src="https://tryhackme-badges.s3.amazonaws.com/KyiWong.png" alt="TryHackMe">](KyiWong)  
+- [<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3202728" alt="TryHackMe">](KyiWong)  
 - my website URL(not resume, just a picture n' video player website): https://nihaokangkang.github.io/website
 
 ### Proudly announced:
