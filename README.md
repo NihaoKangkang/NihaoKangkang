@@ -4,7 +4,7 @@
 - I'm currently learning pentest skills online.
 - Here is my TryHackMe badge:)
 - [<img src="https://tryhackme-badges.s3.amazonaws.com/KyiWong.png" alt="TryHackMe">](KyiWong)  
-- my website URL(not resume, just a picture n' video player website): https://nihaokangkang.github.io/website
+- my website URL(not resume, just a picture n' video player website): [website](https://kyiwong.com)
 
 ### Proudly announced:
 - [Chinese-Common-Password-List](https://github.com/NihaoKangkang/Chinese-Common-Password-List)
