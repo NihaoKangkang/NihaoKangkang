@@ -9,7 +9,8 @@
 ### Proudly announced:
 - [Chinese-Common-Password-List](https://github.com/NihaoKangkang/Chinese-Common-Password-List)
 - [Format Your TV Series Name](https://github.com/NihaoKangkang/series_format)
-- [Xylophone](https://github.com/NihaoKangkang/xylophone.git)
+- [Xylophone](https://github.com/NihaoKangkang/xylophone)
+- [SHA1](https://github.com/NihaoKangkang/sha1)
 - Guess what's next?
 
 
