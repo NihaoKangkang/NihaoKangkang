@@ -11,7 +11,7 @@
 - [Format Your TV Series Name](https://github.com/NihaoKangkang/series_format)
 - [Xylophone](https://github.com/NihaoKangkang/xylophone)
 - [SHA1](https://github.com/NihaoKangkang/sha1)
-- [SHA1](https://github.com/NihaoKangkang/sm3)
+- [SM3](https://github.com/NihaoKangkang/sm3)
 - Guess what's next?
 
 
