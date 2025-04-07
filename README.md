@@ -12,6 +12,7 @@
 - [Xylophone](https://github.com/NihaoKangkang/xylophone)
 - [SHA1](https://github.com/NihaoKangkang/sha1)
 - [SM3](https://github.com/NihaoKangkang/sm3)
+- [SM4](https://github.com/NihaoKangkang/sm4)
 - Guess what's next?
 
 
