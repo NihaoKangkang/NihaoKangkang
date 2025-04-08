@@ -7,12 +7,13 @@
 - my website URL(not resume, just a picture n' video player website): [website](https://kyiwong.com)
 
 ### Proudly announced:
-- [Chinese-Common-Password-List](https://github.com/NihaoKangkang/Chinese-Common-Password-List)
+- [Chinese Common Password List](https://github.com/NihaoKangkang/Chinese-Common-Password-List)
 - [Format Your TV Series Name](https://github.com/NihaoKangkang/series_format)
 - [Xylophone](https://github.com/NihaoKangkang/xylophone)
 - [SHA1](https://github.com/NihaoKangkang/sha1)
 - [SM3](https://github.com/NihaoKangkang/sm3)
 - [SM4](https://github.com/NihaoKangkang/sm4)
+- [Chinese Name Analysis](https://github.com/NihaoKangkang/chinese_name_analysis)
 - Guess what's next?
 
 
