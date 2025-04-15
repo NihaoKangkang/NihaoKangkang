@@ -15,6 +15,7 @@
 - [SM4](https://github.com/NihaoKangkang/sm4)
 - [Chinese Name Analysis](https://github.com/NihaoKangkang/chinese_name_analysis)
 - [DES](https://github.com/NihaoKangkang/DES)
+- [RC4](https://github.com/NihaoKangkang/RC4)
 - Guess what's next?
 
 
