@@ -17,6 +17,7 @@
 - [DES](https://github.com/NihaoKangkang/DES)
 - [RC4](https://github.com/NihaoKangkang/RC4)
 - [RSA](https://github.com/NihaoKangkang/RSA)
+- [AES](https://github.com/NihaoKangkang/AES)
 - Guess what's next?
 
 
