@@ -18,6 +18,7 @@
 - [RC4](https://github.com/NihaoKangkang/RC4)
 - [RSA](https://github.com/NihaoKangkang/RSA)
 - [AES](https://github.com/NihaoKangkang/AES)
+- [ZUC](https://github.com/NihaoKangkang/ZUC)
 - Guess what's next?
 
 
