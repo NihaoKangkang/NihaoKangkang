@@ -19,6 +19,7 @@
 - [RSA](https://github.com/NihaoKangkang/RSA)
 - [AES](https://github.com/NihaoKangkang/AES)
 - [ZUC](https://github.com/NihaoKangkang/ZUC)
+- [certificate generator批量图片合成器](https://github.com/NihaoKangkang/certificate_generator)
 - Guess what's next?
 
 
