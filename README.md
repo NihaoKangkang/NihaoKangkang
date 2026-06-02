@@ -5,7 +5,7 @@
 - Here is my TryHackMe badge:)
 - [<img src="https://tryhackme-badges.s3.amazonaws.com/KyiWong.png" alt="TryHackMe">](KyiWong)  
 - my website URL(not resume, just a picture n' video player website): [website](https://kyiwong.com)
-- [![OSCP Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184209589)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184209589)
+- [![OSCP](https://img.shields.io/badge/OffSec-OSCP-orange?style=for-the-badge)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184209589)
 ### Proudly announced:
 - [Chinese Common Password List](https://github.com/NihaoKangkang/Chinese-Common-Password-List)
 - [Format Your TV Series Name](https://github.com/NihaoKangkang/series_format)
