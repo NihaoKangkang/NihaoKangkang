@@ -20,7 +20,8 @@
 - [AES](https://github.com/NihaoKangkang/AES)
 - [ZUC](https://github.com/NihaoKangkang/ZUC)
 - [certificate generator批量图片合成器](https://github.com/NihaoKangkang/certificate_generator)
-- [你困了吗？AI](https://github.com/NihaoKangkang/Awesome-AI-Sandbox-Abuse-CN-CHATBOT)
+- [某国产AI办公模式维持脚本（含检测声音报警）](https://github.com/NihaoKangkang/Awesome-AI-Sandbox-Abuse-CN-CHATBOT)
+- [super_doubao](https://github.com/NihaoKangkang/super_doubao_home_user_backup)
 - Guess what's next?
 
 
